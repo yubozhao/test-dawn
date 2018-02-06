@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yubozhao.github.io/blog</id>
+    <title>Atalaya Blog</title>
+    <updated>2018-01-18T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://yubozhao.github.io/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Atalaya news and events.</subtitle>
+    <logo>https://yubozhao.github.ioimg/atalaya-logo-icon.png</logo>
+    <rights>Copyright © 2018 Atalaya</rights>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Atalaya]]></title>
+        <id>https://yubozhao.github.io/blog/2018/01/18/welcome-to-atalaya.html</id>
+        <link href="https://yubozhao.github.io/blog/2018/01/18/welcome-to-atalaya.html">
+        </link>
+        <updated>2018-01-18T06:00:00Z</updated>
+        <summary type="html"><![CDATA[Welcome]]></summary>
+        <author>
+            <name>Bozhao Yu</name>
+            <uri>http://twitter.com/bozhao</uri>
+        </author>
+    </entry>
+</feed>
